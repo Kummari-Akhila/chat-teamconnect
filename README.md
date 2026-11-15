@@ -188,6 +188,8 @@ The application combines the essential requirements of the assignment with addit
 **Project:** TeamConnect – React Team Chat Application  
 **Framework:** React + Vite
 
+Demo Video : https://drive.google.com/file/d/19R9S_eT8iLcfPQKZW141hE3-zOGahFc6/view?usp=sharing
+
 ## 🔗 Live Demo
 
 **Try TeamConnect here:** [https://chat-teamconnect.netlify.app](https://chat-teamconnect.netlify.app)
